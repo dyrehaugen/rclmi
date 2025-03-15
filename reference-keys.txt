@@ -25,6 +25,7 @@ costs
 eea-extreme-event-attribution
 insurance
 climate-change-inflation
+productivity-loss
 health
 death
 croatia-europes-heat-death-hot-spot
